@@ -11,7 +11,7 @@ Despite significant progress in defense mechanisms focused on textual manipulati
 ## Quick Start
 - **Get code**
 ```shell 
-git clone https://github.com/Evil-Incorporated/mantra.git
+git clone https://github.com/Phani-61/mantra.git
 ```
 
 - **Build environment**
